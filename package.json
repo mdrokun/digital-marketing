@@ -1,0 +1,15 @@
+{
+  "name": "digital-merketing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "rokun",
+  "license": "ISC",
+  "homepage": "https://mdrokun.github.io/digital-marketing",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
